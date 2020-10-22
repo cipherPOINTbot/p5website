@@ -1,6 +1,3 @@
-// My official website and it's code...
-
-// JavaScript dev area
 var x = 15; 
 
 function setup() {
