@@ -12,7 +12,7 @@ function draw() {
   background(51);
 
   ellipse(x, 200, 30, 30);
-  ellipse(x, 600, 30, 30);
+  ellipse(x, height - 200, 30, 30);
   x++;
 
   if (x >= width - 15) {
@@ -31,3 +31,4 @@ function draw() {
   fill(169);
   text('Kavin Bharathi™', 70, height - 10);
 }
+
