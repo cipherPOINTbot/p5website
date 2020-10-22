@@ -5,6 +5,7 @@ function setup() {
 function draw() {
 
   background(51);
+  fill(169);  
   textAlign(CENTER);
   // stroke(255);
   // noFill();
@@ -14,6 +15,6 @@ function draw() {
   text('and this is my website...', width / 2, (height / 2) + 20);
 
   textSize(15);
-  fill(169);
+
   text('Kavin Bharathi™', 70, height - 10);
 }
