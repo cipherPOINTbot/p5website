@@ -10,5 +10,6 @@ function draw() {
   // noFill();
   // strokeWeight(4);
   textSize(34);
-  text('Kavin Bharathi', width / 2, height / 2);
+  text(' Hello, I am Kavin,', width / 2, (height / 2) - 20);
+  text('and this is my website...', width / 2, (height / 2) + 20);
 }
